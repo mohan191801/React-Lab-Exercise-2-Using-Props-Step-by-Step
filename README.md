@@ -1,6 +1,6 @@
 # React Lab Exercise 2: Using Props — Step by Step
 ## Name: Mohan M
-## Roll no: 2305001003
+## Roll no: 2305001018
 ## Department: CSE
 
 ## AIM
